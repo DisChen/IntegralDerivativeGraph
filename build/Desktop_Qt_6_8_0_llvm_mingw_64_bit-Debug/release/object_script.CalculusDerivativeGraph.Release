@@ -1,0 +1,14 @@
+release/main.o
+release/mainwindow.o
+release/muParser.o
+release/muParserBase.o
+release/muParserBytecode.o
+release/muParserCallback.o
+release/muParserDLL.o
+release/muParserError.o
+release/muParserInt.o
+release/muParserTest.o
+release/muParserTokenReader.o
+release/qcustomplot.o
+release/moc_mainwindow.o
+release/moc_qcustomplot.o

@@ -1,0 +1,14 @@
+debug/main.o
+debug/mainwindow.o
+debug/muParser.o
+debug/muParserBase.o
+debug/muParserBytecode.o
+debug/muParserCallback.o
+debug/muParserDLL.o
+debug/muParserError.o
+debug/muParserInt.o
+debug/muParserTest.o
+debug/muParserTokenReader.o
+debug/qcustomplot.o
+debug/moc_mainwindow.o
+debug/moc_qcustomplot.o
